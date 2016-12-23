@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console.log();"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"Tr",
+				"True"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"MS",
+				"MSISDN_A"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"fie",
+				"fields"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ter",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"per",
+				"Permute Lines: Reverse"
+			],
+			[
+				"build",
+				"Build With: Nodejs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Build With: Python"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 416.0,
+		"history":
+		[
+			"PWD",
+			"edwqe",
+			"dir",
+			"cd D:",
+			"C:",
+			"dir",
+			"cls",
+			"pwd",
+			"ls",
+			"ck",
+			"ls",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/angular2-essential-training"
+	],
+	"file_history":
+	[
+		"/C/Users/InukaShanesh/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/InukaShanesh/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp49011/RIA/snd-0.15.0/2016-12-01/setup",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp56389/RIA/snd-0.15.0/2016-12-01/utils/common.sh",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp12599/RIA/snd-0.15.0/2016-12-01/docs/CONFIGURATION.md",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp12663/RIA/snd-0.15.0/2016-12-01/docs/PREREQUISITES.md",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp13167/RIA/snd-0.15.0/2016-12-01/deploy/workdir/confs/2-platform-components.conf",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp15831/RIA/snd-0.15.0/2016-12-01/utils/set_dm_parameters.py",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp09968/RIA/snd-0.15.0/2016-12-01/config/snd/modules.conf",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp09704/RIA/snd-0.15.0/2016-12-01/config/snd/product.conf",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp09535/RIA/snd-0.15.0/2016-12-01/config/snd/mobile.conf",
+		"/D/dev/ssh_test/package.json",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp08903/RIA/snd-0.15.0/2016-12-01/data/seeds/latest/license_keys.conf",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/scp08512/RIA/snd-0.15.0/2016-12-01/data/seeds/latest/global.conf",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts-support_development/implementation-scripts-support_development/Support Toolbox/portal_users_script/portal_users.py",
+		"/C/Users/InukaShanesh/Downloads/Dev/hackathon-logging/hackathon-logging/test.py",
+		"/D/test/SQLiteHandler.py",
+		"/D/test/myModule.py",
+		"/D/test/RIALogger.py",
+		"/D/test/__init__.py",
+		"/D/test/mymodule.py",
+		"/D/test/test.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/DIGICEL/TT/CAP_143/Modules/Modeling/AdoptionModels/__init__.py",
+		"/D/__init__.py",
+		"/D/logging.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/app/routes/categories.server.routes.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/app/controllers/categories.server.controller.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/app/tests/category.server.model.test.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/app/models/category.server.model.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/package.json",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/gruntfile.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/mean_prj_01/node_modules/bson/ext/index.js",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/DIGICEL/TT/ftp_monitoring_v3/ftp_monitoring_v3/config/parameters.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Lynda Exercise Files/Node.js Essential Training/Ex_Files_Nodejs_EssT/Ch03/03_04/start/timers.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Lynda Exercise Files/Node.js Essential Training/Ex_Files_Nodejs_EssT/Ch03/03_03/finished/ask.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Lynda Exercise Files/Node.js Essential Training/Ex_Files_Nodejs_EssT/Ch03/03_04/finished/timers.js",
+		"/C/Users/InukaShanesh/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/InukaShanesh/Desktop/ee.csv",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/shell_controller/shell_controller/routes/add_packages.js",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/Temp1_M3-2.3.zip/GeoManager/python_global/automation.py",
+		"/C/Users/InukaShanesh/control_tower/start-backups.js",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/Temp1_M3-2.3.zip/GeoManager/engine/python_automation/module.py",
+		"/C/Users/InukaShanesh/control_tower/config.json",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/ssh_shell/server.js",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/side_projects/ssh_shell/server1.js",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/7zOBA8A.tmp/0.9.0.conf",
+		"/C/Users/InukaShanesh/ui_installer/test_prj_01/bottom_sheet",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/AIRTEL/CD/rules.conf",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/Support Toolbox/Run_backwards/gel_monitor.py",
+		"/C/Users/InukaShanesh/Downloads/implementation-scripts-support_development (2)/implementation-scripts-support_development/Support Toolbox/ftp_monitor_v31/config/parameters.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/DIGICEL/TT/CAP_143/Modules/ScanEligibilityFlags/__init__.py",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/Support Toolbox/Run_backwards/backward.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/AIRTEL/MW/Python Global/backward.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/bala.sql",
+		"/C/Users/InukaShanesh/Downloads/ftp_monitor_v31/config/parameters.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/AIRTEL/TD/rules.conf",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/backwards_runner.py",
+		"/C/Users/InukaShanesh/Downloads/dd.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/DIGICEL/TT/CAP_143/Modules/Campaigning/Eligibility/__init__.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/DIGICEL/TT/test.py",
+		"/C/Users/InukaShanesh/Desktop/error_log.log",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Internal Reporting/anatella-campaign-engine-develop/anatella-campaign-engine-develop/Api/execute.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/MTN/UG/run.py",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/geodim-revamp/geodim_revamp_runner.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/AIRTEL/TZ/portal_users/portal_users.py",
+		"/C/Users/InukaShanesh/Downloads/OPCOs/GeoManager (1)/GeoManager/python_global/automation.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Support toolbox/Support Toolbox-v093/kpi_checker/check_kpi.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Internal Reporting/anatella-campaign-engine-develop/anatella-campaign-engine-develop/Api/api.py",
+		"/C/Users/InukaShanesh/Downloads/settings.py",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/geodim-revamp/geodim_revamp.conf",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Support toolbox/Support Toolbox-v093/last_date_to_blackbox/last_date_to_blackbox_M3_231_differentlags.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Support toolbox/Support Toolbox-v093/check_ftp_input/check_ftp_input.py",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/email-assistant/email_pusher.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Internal Reporting/email_pusher/email_1_pusher.py",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/email-assistant/html_template.html",
+		"/C/Users/InukaShanesh/Documents/GitHub/implementation-scripts/email-assistant/config.ini",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/Internal Reporting/portal_users_script/portal_users.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/dev_test/test.py",
+		"/C/Users/InukaShanesh/Desktop/index.html",
+		"/D/apps/project-folder/index.html",
+		"/C/app/mysite/templates/admin/index.html",
+		"/C/app/mysite/polls/views.py",
+		"/C/app/mysite/polls/urls.py",
+		"/C/app/mysite/mysite/urls.py",
+		"/C/app/mysite/templates/admin/base_site.html",
+		"/C/Users/InukaShanesh/Documents/GitHub/django/django/contrib/admin/templates/admin/base.html",
+		"/C/app/mysite/polls/migrations/0001_initial.py",
+		"/C/app/mysite/polls/admin.py",
+		"/C/app/mysite/polls/models.py",
+		"/C/app/mysite/mysite/settings.py",
+		"/C/Python27/Lib/site-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/C/Python27/Lib/site-packages/django/contrib/admin/templates/admin/base.html",
+		"/C/app/mysite/mysite/wsgi.py",
+		"/C/app/mysite/manage.py",
+		"/C/app/sme_site/sme_site/settings.py",
+		"/C/app/sme_site/customer/admin.py",
+		"/C/app/sme_site/customer/models.py",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/automation.py",
+		"/C/Users/InukaShanesh/AppData/Local/Temp/get-pip.py",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/conf_example.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/DC_HT/Email_send/send-email-monitoring-report.py",
+		"/D/data-checker-0.4/Data_Checker_Source/DC_config/conf.py",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/3_update_repo.bat",
+		"/D/data-checker-0.4/Data_Checker_Data/DQR/test_results.db3",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/2_run_print_summary.bat",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/1_import_conf__run_day 1_2_3.bat",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/conf_test.py",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/4_run_remaining_days.bat",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/DC_HT/Email_send/configuration.conf",
+		"/D/data-checker-0.4/Data_Checker_User_Interface/Config_and_Run/conf_example_update.py",
+		"/C/Users/InukaShanesh/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/InukaShanesh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/data-checker-0.4/Data_Checker_Source/Worker/worker.py",
+		"/D/data-checker-0.4/Data_Checker_Source/__init__.py",
+		"/D/data-checker-0.4/Data_Checker_Source/DQR/dqr.py",
+		"/D/data-checker-0.4/Data_Checker_Source/Suite/suite.py",
+		"/D/data-checker-0.4/Data_Checker_Source/Source/source.py",
+		"/D/data-checker-0.4/Data_Checker_Source/DC_config/__init__.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/DC_HT/Email_send/email-pull-status.py",
+		"/C/Users/InukaShanesh/Dropbox (Personal)/Work/DC_HT/Email_send/email-datamatrix.py",
+		"/D/attch/test.html",
+		"/C/Users/InukaShanesh/AppData/Roaming/Skype/My Skype Received Files/email-datamatrix.py",
+		"/C/Users/InukaShanesh/AppData/Roaming/Skype/My Skype Received Files/email-pull-status.py",
+		"/C/Apps/spark/data/log.txt",
+		"/C/Users/InukaShanesh/Downloads/Compressed/cdr-generator-master/cdr-generator-master/src/test/scala/Generator/Cells/CellsGeneratorSpec.scala",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"SELECT",
+			"DATE_KEY",
+			"’",
+			"‘",
+			"//",
+			" ",
+			":",
+			"err",
+			"exports",
+			"exKey",
+			"obj",
+			"fields",
+			"itemWrapper",
+			"mkdir",
+			"Processing",
+			"Processing ",
+			"<date>",
+			"el_d",
+			"    p.addJob(s);",
+			"    s=\"\\\"\"+anatellaDir+\"/anatella.exe\\\" -e \\\"",
+			"     s=\"\\\"\"+anatellaDir+\"/anatella.exe\\\" -e \\\"",
+			"setTableauUser",
+			"DIRS",
+			"was_published_recently",
+			"33 42"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"TypeFields",
+			"poi",
+			"20160628",
+			"32 42"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 399.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "angular2-essential-training.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
